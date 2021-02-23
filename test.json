@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "http://www.enlightenedlife.me",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}
